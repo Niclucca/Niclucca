@@ -39,6 +39,16 @@ Me interesa comprender cómo funcionan las aplicaciones de principio a fin: desd
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
+
+## 🤖 Inteligencia artificial
+
+Utilizo herramientas de inteligencia artificial como apoyo en mi proceso de aprendizaje y desarrollo de software.
+
+- **ChatGPT:** planificación, análisis de problemas, arquitectura y revisión de proyectos.
+- **Claude:** asistencia en programación, generación de código y desarrollo de funcionalidades.
+
+Me interesa aprender a integrar la inteligencia artificial de manera responsable para mejorar los procesos de desarrollo, productividad y resolución de problemas.
+
 ---
 
 ## 🚀 Proyectos
