@@ -1,0 +1,67 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">RAGNAROK BARBER</title>
+  <desc id="desc">Tarjeta de proyecto con estética negra y dorada.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#171717"/>
+      <stop offset="55%" stop-color="#090909"/>
+      <stop offset="100%" stop-color="#21190d"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#9b7130"/>
+      <stop offset="48%" stop-color="#f4d58a"/>
+      <stop offset="100%" stop-color="#a77b36"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#b58a45" stop-opacity=".22"/>
+      <stop offset="100%" stop-color="#b58a45" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .gold { fill: url(#gold); }
+      .muted { fill: #b6aa96; font-family: Arial, sans-serif; }
+      .main { fill: #f4eee3; font-family: Georgia, serif; }
+      .small { font: 15px Arial, sans-serif; letter-spacing: 3px; }
+      .shimmer {
+        animation: shine 4s ease-in-out infinite;
+      }
+      .pulse {
+        animation: pulse 5s ease-in-out infinite;
+        transform-origin: 990px 210px;
+      }
+      @keyframes shine {
+        0%, 100% { opacity: .35; }
+        50% { opacity: 1; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: .35; transform: scale(.96); }
+        50% { opacity: .8; transform: scale(1.04); }
+      }
+    </style>
+  </defs>
+
+  <rect width="1200" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="23" fill="none" stroke="#80602e" stroke-opacity=".65"/>
+
+  <circle cx="990" cy="210" r="190" fill="url(#glow)" class="pulse"/>
+  <circle cx="990" cy="210" r="128" fill="none" stroke="#b58a45" stroke-opacity=".15"/>
+  <circle cx="990" cy="210" r="94" fill="none" stroke="#b58a45" stroke-opacity=".24" stroke-dasharray="3 10"/>
+
+  <path d="M790 0 L1200 0 L1200 420 L1020 420 Z" fill="#c69b53" opacity=".035"/>
+  <path d="M52 54 H1148" stroke="#b58a45" stroke-opacity=".35"/>
+  <path d="M52 366 H1148" stroke="#b58a45" stroke-opacity=".35"/>
+
+  <text x="70" y="96" class="gold small">PORTFOLIO PROJECT / 01</text>
+
+  <text x="68" y="190" class="main" font-size="64" letter-spacing="3">RAGNAROK</text>
+  <text x="72" y="240" class="gold" font-family="Georgia, serif" font-size="31" letter-spacing="9">BARBER</text>
+
+  <rect x="72" y="270" width="82" height="3" rx="2" fill="url(#gold)" class="shimmer"/>
+
+  <text x="72" y="316" class="muted" font-size="19">Diseño web para una barbería</text>
+  <text x="72" y="344" class="muted" font-size="15">HTML5  /  CSS3  /  JAVASCRIPT</text>
+
+
+  <text x="1130" y="394" text-anchor="end" fill="#9d8357" font-family="Arial, sans-serif" font-size="12" letter-spacing="2">NICLUCCA · 2026</text>
+</svg>
