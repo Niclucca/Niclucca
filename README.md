@@ -44,9 +44,6 @@ Me interesa comprender cómo funcionan las aplicaciones de principio a fin: desd
 
 Utilizo herramientas de inteligencia artificial como apoyo en mi proceso de aprendizaje y desarrollo de software.
 
-- **ChatGPT:** planificación, análisis de problemas, arquitectura y revisión de proyectos.
-- **Claude:** asistencia en programación, generación de código y desarrollo de funcionalidades.
-
 Me interesa aprender a integrar la inteligencia artificial de manera responsable para mejorar los procesos de desarrollo, productividad y resolución de problemas.
 
 ---
