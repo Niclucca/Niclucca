@@ -43,13 +43,13 @@ Me interesa comprender cómo funcionan las aplicaciones de principio a fin: desd
 
 ## 🚀 Proyectos
 
-\<p align="center">   \<a href="[https://github.com/Niclucca/ragnarok-barber](https://github.com/Niclucca/ragnarok-barber)">     \<img src="./ragnarok.svg" width="100%" alt="RAGNAROK BARBER - Proyecto" />   \</a> \</p>
+[![RAGNAROK BARBER](./ragnarok.svg)](https://github.com/Niclucca/ragnarok-barber)
 
-\<p align="center">   \<a href="[https://ragnarokproyect.netlify.app/](https://ragnarokproyect.netlify.app/)">Ver demo\</a>   &nbsp; · &nbsp;   \<a href="[https://github.com/Niclucca/ragnarok-barber](https://github.com/Niclucca/ragnarok-barber)">Código fuente\</a> \</p>
+[**Ver demo**](https://ragnarokproyect.netlify.app/) · [**Código fuente**](https://github.com/Niclucca/ragnarok-barber)
 
-\<p align="center">   \<a href="[https://github.com/Niclucca/micks-pizzeria](https://github.com/Niclucca/micks-pizzeria)">     \<img src="./micks-pizzeria.svg" width="100%" alt="MICK'S PIZZERIA - Proyecto" />   \</a> \</p>
+[![MICK'S PIZZERIA](./micks-pizzeria.svg)](https://github.com/Niclucca/micks-pizzeria)
 
-\<p align="center">   \<a href="[https://niclucca.github.io/micks-pizzeria/](https://niclucca.github.io/micks-pizzeria/)">Ver demo\</a>   &nbsp; · &nbsp;   \<a href="[https://github.com/Niclucca/micks-pizzeria](https://github.com/Niclucca/micks-pizzeria)">Código fuente\</a> \</p>
+[**Ver demo**](https://niclucca.github.io/micks-pizzeria/) · [**Código fuente**](https://github.com/Niclucca/micks-pizzeria)
 
 
 ---
