@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # ¡Hola! Soy Niclucca 👋
 
 💻 **Junior Full Stack Developer | Frontend & Backend**
