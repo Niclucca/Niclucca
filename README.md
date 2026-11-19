@@ -1,8 +1,8 @@
 # ¡Hola! Soy Niclucca 👋
 
-\<p align="center">   \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Junior+Full+Stack+Developer;Frontend+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=22\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Junior+Full+Stack+Developer;Frontend+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)" alt="Presentación animada" /> \</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Junior+Full+Stack+Developer;Frontend+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)
 
-\<p align="center">   \<strong>Junior Full Stack Developer | Frontend & Backend\</strong> \</p>
+**Junior Full Stack Developer | Frontend & Backend**
 
 Soy un entusiasta de la tecnología y el desarrollo de software, enfocado en construir mi camino profesional como desarrollador Full Stack.
 
@@ -16,29 +16,39 @@ Me interesa comprender cómo funcionan las aplicaciones de principio a fin: desd
 
 **Desarrollo web**
 
-\<p>   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" /> \</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Otros lenguajes**
 
-\<p>   \<img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" /> \</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-\<sub>Java y Python: conocimientos básicos.\</sub>
+*Java y Python: conocimientos básicos.*
 
 **Control de versiones**
 
-\<p>   \<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Herramientas y entorno**
 
-\<p>   \<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white](https://img.shields.io/badge/npm-CB3837?style=for-the-badge\&logo=npm\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)" /> \</p>
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos
 
-\<p align="center">   \<a href="[https://github.com/Niclucca/ragnarok-barber](https://github.com/Niclucca/ragnarok-barber)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Niclucca&repo=ragnarok-barber&theme=github_dark&hide_border=true&title_color=58A6FF](https://github-readme-stats.vercel.app/api/pin/?username=Niclucca\&repo=ragnarok-barber\&theme=github_dark\&hide_border=true\&title_color=58A6FF)" width="49%" alt="RAGNAROK BARBER" />   \</a>   \<a href="[https://github.com/Niclucca/micks-pizzeria](https://github.com/Niclucca/micks-pizzeria)">     \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Niclucca&repo=micks-pizzeria&theme=github_dark&hide_border=true&title_color=58A6FF](https://github-readme-stats.vercel.app/api/pin/?username=Niclucca\&repo=micks-pizzeria\&theme=github_dark\&hide_border=true\&title_color=58A6FF)" width="49%" alt="MICK'S PIZZERIA" />   \</a> \</p>
+[![RAGNAROK BARBER](https://github-readme-stats.vercel.app/api/pin/?username=Niclucca&repo=ragnarok-barber&theme=github_dark&hide_border=true&title_color=58A6FF)](https://github.com/Niclucca/ragnarok-barber)
 
-\<p align="center">   \<a href="[https://ragnarokproyect.netlify.app/](https://ragnarokproyect.netlify.app/)">Ver RAGNAROK BARBER\</a>   &nbsp; · &nbsp;   \<a href="[https://niclucca.github.io/micks-pizzeria/](https://niclucca.github.io/micks-pizzeria/)">Ver MICK'S PIZZERIA\</a> \</p>
+[![MICK'S PIZZERIA](https://github-readme-stats.vercel.app/api/pin/?username=Niclucca&repo=micks-pizzeria&theme=github_dark&hide_border=true&title_color=58A6FF)](https://github.com/Niclucca/micks-pizzeria)
+
+- [Ver RAGNAROK BARBER](https://ragnarokproyect.netlify.app/)
+- [Ver MICK'S PIZZERIA](https://niclucca.github.io/micks-pizzeria/)
 
 ---
 
@@ -56,4 +66,6 @@ Me interesa comprender cómo funcionan las aplicaciones de principio a fin: desd
 
 Crecer como Full Stack Developer, adquirir experiencia laboral y participar en proyectos donde pueda aportar mis conocimientos, compromiso y capacidad de aprendizaje.
 
-\<p align="center">   \<sub>Construyendo, aprendiendo y mejorando un proyecto a la vez.\</sub> \</p>
+---
+
+*Construyendo, aprendiendo y mejorando un proyecto a la vez.*
