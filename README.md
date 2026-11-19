@@ -58,6 +58,32 @@ Me interesa aprender a integrar la inteligencia artificial de manera responsable
 
 [**Ver demo**](https://niclucca.github.io/micks-pizzeria/) · [**Código fuente**](https://github.com/Niclucca/micks-pizzeria)
 
+## 🧠 Proyecto en desarrollo
+
+### Agentic OS — Plataforma de agentes inteligentes
+
+Proyecto independiente de arquitectura y desarrollo de software, concebido como una futura solución tecnológica con orientación comercial, diseñada para evolucionar hacia una plataforma integral de agentes de inteligencia artificial.
+
+El proyecto se desarrolla de forma individual, abarcando desde la concepción del producto y la investigación hasta el diseño arquitectónico, la especificación técnica y la planificación de su implementación.
+
+**Áreas de desarrollo:**
+- Arquitectura de software modular y escalable.
+- Sistemas multiagente, coordinación y orquestación.
+- Integración y gestión de modelos de inteligencia artificial.
+- Seguridad, identidad, autorización y gobernanza.
+- Gestión de memoria, conocimiento y contexto.
+- Auditoría, observabilidad y trazabilidad.
+- Evaluación, control de calidad y gestión del ciclo de vida de agentes.
+- Diseño de contratos e interfaces entre componentes.
+- Gestión de recursos, presupuestos y controles operativos.
+
+**Tecnologías exploradas:** Tauri, Rust, Vite, Python y FastAPI.
+
+**Estado:** En desarrollo activo.
+
+**Proyección:** Evolución hacia un producto tecnológico comercial, con una arquitectura preparada para ofrecer capacidades de automatización, coordinación y gestión de agentes inteligentes.
+
+*Iniciativa desarrollada de forma independiente. El código fuente, la documentación técnica interna y los detalles de implementación se mantienen privados.*
 
 ---
 
