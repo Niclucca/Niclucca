@@ -1,4 +1,4 @@
-# ¡Hola! Soy Niclucca 👋
+# ¡Hola! Soy Lucas Nicolas 👋
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&width=650&lines=Junior+Full+Stack+Developer;Frontend+%26+Backend;Siempre+aprendiendo%2C+siempre+construyendo)
 
